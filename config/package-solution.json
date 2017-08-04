@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "safety-incident-list-client-side-solution",
+    "id": "abaca714-39d2-4b82-958c-54138a792b8d",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/safety-incident-list.sppkg"
+  }
+}

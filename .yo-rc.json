@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "safety-incident-list",
+    "libraryId": "abaca714-39d2-4b82-958c-54138a792b8d",
+    "environment": "spo"
+  }
+}
